@@ -1,0 +1,55 @@
+.circle {
+    width: 100px;
+    height: 100px;
+    border: 1.5px solid rgb(98, 98, 182);
+    display: inline-flex;
+    align-items:center;
+    border: 2px solid #000;
+    justify-content: center;
+    border-radius: 50%;
+    border-color:  rgb(98, 98, 182);
+    margin-left: 10px;
+   
+}
+
+.facebook {
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    color: #3b5998;
+
+    
+}
+
+.twitter {
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    color: #00acee;
+
+}
+
+.instagram {
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    color: rgb(98, 98, 182);
+
+}
+
+.linkedin {
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    color: #0072b1;
+
+}
+
+.user {
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    color: rgb(21, 21, 196);
+
+}
+

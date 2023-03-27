@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Playfair+Display:wght@400;500;600&family=Space+Mono&display=swap');
+
+
+.initial {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    color: rgb(4, 87, 87);
+}
+
+.second {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Playfair Display';
+    font-weight: 500;
+    color: rgb(4, 87, 87);
+}
+
+.image {
+    text-align: center;
+    width: 100%;
+}
+
+
+.description {
+    color: rgb(4, 87, 87);
+    font-family: 'Playfair Display';
+    font-weight: 500;
+    width: 608px;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(4, 87, 87);
+}
